@@ -1,0 +1,12 @@
+Package: paquete1
+Title: Media anual noches tropicales (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Enrique", "Martinez", , "first.last@example.com", role = c("aut", "cre"))
+Description: Crea un SpatRaster con la media del numero de noches tropicales anual de un periodo determinado.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+  terra
